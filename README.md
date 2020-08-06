@@ -61,10 +61,10 @@ The sourcetypes map to the Github Webhook event as described in the [Github Webh
 
 This add-on was built on version 8.0.3 of Splunk Enterprise and is compatible with the following software and platforms:
 
-| Splunk platform versions          | 8.x
-| CIM                               | N/A
-| Supported OS for data collection  | All supported operating systems
-| Vendor products                   | Tested using GitHub.com
+| Splunk platform versions          | 8.x |
+| CIM                               | N/A |
+| Supported OS for data collection  | All supported operating systems |
+| Vendor products                   | Tested using GitHub.com |
 
 ## Installation
 
