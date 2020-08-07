@@ -70,7 +70,7 @@ This add-on was built on version 8.0.3 of Splunk Enterprise and is compatible wi
 
 Installing this add-on involves the following steps:
 
-1. Download the add-on
+1. Download the add-on.
 2. Determine where to install this add-on in your deployment using the table below.
 3. Configure HEC input to receive GitHub data as described below.
 4. Configure Github Webhook to send webhook data to the HEC endpoint.
